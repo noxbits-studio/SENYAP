@@ -1,0 +1,6 @@
+{
+  "operation": "get_latest",
+  "page": 1,
+  "per_page": 30,
+  "thumbsize": "medium"
+}
