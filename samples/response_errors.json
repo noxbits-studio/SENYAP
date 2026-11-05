@@ -1,0 +1,12 @@
+{
+  "contract_version": 1,
+  "type": "error",
+  "status": "error",
+  "data": [],
+  "pagination": null,
+  "error": {
+    "code": "invalid_parameter",
+    "message": "Parameter 'page' harus di antara 1 dan 1000000.",
+    "retryable": false
+  }
+}
