@@ -1,0 +1,4 @@
+# Tahap 1 sengaja tanpa dependensi eksternal.
+# Semua kebutuhan HTTP dan JSON dipenuhi pustaka standar Python
+# (urllib, json, socket) agar aman dijalankan lewat Chaquopy.
+# Tidak ada paket yang perlu diinstal untuk menjalankan scraper ini.
